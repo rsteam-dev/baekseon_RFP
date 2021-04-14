@@ -1,7 +1,7 @@
 # baekseon_RFP
 machine learning experience
 
-### BinderLink : [![Binder](https://mybinder.org/v2/gh/rsteam-dev/baekseon_RFP.git/main?filepath=BU_SmartFarm1.ipynb)
+### BinderLink : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rsteam-dev/baekseon_RFP.git/main?filepath=BU_SmartFarm1.ipynb)
 mybinder.org
 ### Requirements
 
