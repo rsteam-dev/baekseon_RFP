@@ -11,7 +11,7 @@ About Jupiter Notebook
 
 The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
 
-##Install with pip
+## Install with pip
 
 If you use pip, you can install it with : pip install jupyterlab
 
@@ -27,7 +27,7 @@ conda install -c conda-forge notebook
 ## pip
 If you use pip, you can install it with:
 
-##pip install notebook  
+## pip install notebook  
 
 run the following command at the Terminal:
 
