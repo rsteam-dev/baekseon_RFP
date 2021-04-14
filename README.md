@@ -1,6 +1,8 @@
 # baekseon_RFP
 machine learning experience
 
+### BinderLink : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rsteam-dev/baekseon_RFP.git/main?filepath=BU_SmartFarm1.ipynb)
+
 ### Requirements
 
 Python 3.6+ NumPy (pip install numpy) Pandas (pip install pandas) MatplotLib (pip install matplotlib) Tensorflow (pip install tensorflow or pip install tensorflow-gpu)
